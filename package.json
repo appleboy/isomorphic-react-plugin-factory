@@ -1,0 +1,44 @@
+{
+  "__template__gist__": "https://gist.github.com/tomchentw/368a93bb748ad9d576f1#file-package-json",
+  "name": "isomorphic-react-plugin-factory",
+  "version": "0.1.0",
+  "description": "Use React.js as HTML template generator in webpack. Suitable for server side rendering",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tomchentw/isomorphic-react-plugin-factory"
+  },
+  "keywords": [
+    "isomorphic",
+    "React.js",
+    "React",
+    "webpack",
+    "webpack-plugin"
+  ],
+  "author": {
+    "name": "tomchentw",
+    "email": "developer@tomchentw.com",
+    "url": "https://github.com/tomchentw"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "http://tomchentw.mit-license.org"
+  },
+  "bugs": {
+    "url": "https://github.com/tomchentw/isomorphic-react-plugin-factory/issues"
+  },
+  "homepage": "https://github.com/tomchentw/isomorphic-react-plugin-factory/",
+  "devDependencies": {
+    "react": "^0.13.0",
+    "tomchentw-npm-dev": "^1.2.0"
+  },
+  "dependencies": {
+    "eval-as-module": "^0.1.1"
+  },
+  "peerDependencies": {
+    "react": "^0.13.0"
+  }
+}
