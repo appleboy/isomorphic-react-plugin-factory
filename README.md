@@ -1,5 +1,5 @@
 # isomorphic-react-plugin-factory [![Travis CI][travis-image]][travis-url] [![Quality][codeclimate-image]][codeclimate-url] [![Coverage][codeclimate-coverage-image]][codeclimate-coverage-url] [![Dependencies][gemnasium-image]][gemnasium-url] [![Gitter][gitter-image]][gitter-url]
-> React.js Google Maps integration component
+> Use React.js as HTML template generator in webpack. Suitable for server side rendering
 
 [![Version][npm-image]][npm-url]
 
